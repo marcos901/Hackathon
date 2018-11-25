@@ -4,6 +4,7 @@ Hackathon IFTM 2018
 ##
 Executar o xampp e ligar o Apache e o MySQL
 Colocar o projeto dentro da pasta htdocs que está dentro da pasta do xampp
+Importar o banco de dados transportadora no phpMyAdmin
 Abrir o navegador e colocar o endereço: localhost/Hackathon
 
 Usuário: admin
