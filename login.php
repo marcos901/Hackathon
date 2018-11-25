@@ -17,7 +17,7 @@ if(isset($_GET["id"])){
 		<div class="drop">
 			<ul class="drop_menu">
 				<li><a href="/Hackathon/admin/index.php">Pesquisa</a></li>
-				<li><a href="/Hackathon/admin/	logout.php">Sair</a></li>	
+				<li><a href="/Hackathon/admin/logout.php">Sair</a></li>	
 			</ul>
 		</div>
 		<center>

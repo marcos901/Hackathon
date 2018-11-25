@@ -12,7 +12,7 @@ if($ret){
 	echo "<script>window.location='login.php';</script>";
 }else{
 	echo "<script>alert('E-mail ou senha errados');</script>";
-	echo "<script>window.location='login.php';</script>";
+	echo "<script>window.location='index.php';</script>";
 }
 
 ?>
